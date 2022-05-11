@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paheychup
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning python, statistics and linux
-- 💞️ I’m looking to collaborate on trading algorithms, wrangling data and visualisation 
+- 👀 I’m interested in trading algorithms and data science 
+- 🌱 I’m currently learning python and statistics
+- 💞️ I’m looking for to collaborate on trading algorithms, wrangling and visualisation data
 - 📫 How to reach me @CPaul1988
 
 <!---
